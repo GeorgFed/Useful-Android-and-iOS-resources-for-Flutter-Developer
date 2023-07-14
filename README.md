@@ -1,6 +1,11 @@
 # Полезные ссылки по iOS и Android для Flutter разработчиков 
 ## Android
-
+-https://developer.android.com/jetpack/samples - примеры использования Jetpack
+- https://developer.android.com/courses - Training Courses & Codelabs
+- https://developer.android.com/guide/topics/permissions/overview - про Permissions
+- https://developer.android.com/guide/topics/manifest/manifest-intro - про AndroidManifest.xml
+- https://developer.android.com/guide/components/activities/process-lifecycle - про жизненный цикл приложений и процессов
+- https://www.youtube.com/watch?v=5SYaITerrjU - про систему сборки в Android
 ## iOS
 - https://www.youtube.com/watch?v=qxmXRjOIiko&t=351s – доклад про то, как мы используем натив в Яндекс Про
 - https://www.avanderlee.com/debugging/xcode-instruments-time-profiler/ – про использование профайлинга для улучшения перформанса приложения 
