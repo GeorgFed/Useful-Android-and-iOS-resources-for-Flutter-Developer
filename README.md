@@ -1,6 +1,6 @@
 # Полезные ссылки по iOS и Android для Flutter разработчиков 
 ## Android
--https://developer.android.com/jetpack/samples - примеры использования Jetpack
+- https://developer.android.com/jetpack/samples - примеры использования Jetpack
 - https://developer.android.com/courses - Training Courses & Codelabs
 - https://developer.android.com/guide/topics/permissions/overview - про Permissions
 - https://developer.android.com/guide/topics/manifest/manifest-intro - про AndroidManifest.xml
